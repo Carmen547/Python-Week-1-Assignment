@@ -1,11 +1,10 @@
 USER INPUT PROGRAM
-OBJECTIVE
-To learn how to take user input in Python.
+OBJECTIVE : To learn how to take user input in Python.
 
-Program Description
+Program Description.
 This program asks the user for their name, age, and location, and then prints out a personalized message. It demonstrates how to use the input() function to gather user input and how to format a string to include user-provided information.
 
-Instructions
+Instructions:
 Create a New Python File
 
 Name the file user_input.py.
