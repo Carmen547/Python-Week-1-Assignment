@@ -1,5 +1,5 @@
-User Input Program
-Objective
+USER INPUT PROGRAM
+OBJECTIVE
 To learn how to take user input in Python.
 
 Program Description
